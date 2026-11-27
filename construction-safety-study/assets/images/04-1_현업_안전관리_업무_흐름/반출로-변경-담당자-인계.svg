@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="655" viewBox="0 0 1020 655" role="img" aria-labelledby="title description">
+  <title id="title">반출로가 바뀌었을 때 담당자별 인계</title>
+  <desc id="description">운전원 신고에서 관리감독자 통제, 공사 담당과 업체 조정, 기술 검토, 업체 시행, 관리감독자 재확인, 재개 결정과 주간보고까지의 업무 순서. 보건관리자와 근로자대표의 참여 및 미충족 시 통제 유지가 관련 단계에 연결된다.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0L8 4L0 8Z" fill="#486474"/>
+    </marker>
+  </defs>
+  <rect width="1018" height="653" x="1" y="1" rx="18" fill="#fff" stroke="#dbe5e9"/>
+  <g font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif">
+    <text x="34" y="49" fill="#183448" font-size="30" font-weight="700">반출로가 바뀌었을 때 담당자별 인계</text>
+    <text x="35" y="85" fill="#075f5a" font-size="18" font-weight="700">현장에서 진행하는 순서</text>
+    <text x="650" y="85" fill="#075f5a" font-size="18" font-weight="700">해당 상황에서 함께 하는 일</text>
+    <g stroke="#486474" stroke-width="2.5" fill="none" marker-end="url(#arrow)">
+      <path d="M304 189v16"/>
+      <path d="M304 293v16"/>
+      <path d="M304 397v16"/>
+      <path d="M304 501v16"/>
+    </g>
+    <g stroke="#486474" stroke-width="2" fill="none" stroke-dasharray="5 4">
+      <path d="M578 246h70"/>
+      <path d="M578 350h70"/>
+    </g>
+    <g>
+      <rect x="34" y="101" width="544" height="86" rx="10" fill="#e2f2ee"/>
+      <circle cx="64" cy="131" r="16" fill="#fff"/>
+      <text x="64" y="136" text-anchor="middle" font-size="13" font-weight="700" fill="#075f5a">01</text>
+      <text x="91" y="137" font-size="21" font-weight="700" fill="#183448">운전원 신고 · 관리감독자 통제</text>
+      <text x="91" y="165" font-size="16" fill="#435c6d">변경 위치와 영향을 알리고 양쪽 작업의 통제 범위를 확인</text>
+    </g>
+    <g>
+      <rect x="34" y="205" width="544" height="86" rx="10" fill="#eaf0f8"/>
+      <circle cx="64" cy="235" r="16" fill="#fff"/>
+      <text x="64" y="240" text-anchor="middle" font-size="13" font-weight="700" fill="#075f5a">02</text>
+      <text x="91" y="241" font-size="21" font-weight="700" fill="#183448">공사 담당 · 협력업체 조정</text>
+      <text x="91" y="269" font-size="16" fill="#435c6d">차량·보행 시간과 경로 조정, 안전관리자의 기술 검토</text>
+    </g>
+    <g>
+      <rect x="34" y="309" width="544" height="86" rx="10" fill="#e2f2ee"/>
+      <circle cx="64" cy="339" r="16" fill="#fff"/>
+      <text x="64" y="344" text-anchor="middle" font-size="13" font-weight="700" fill="#075f5a">03</text>
+      <text x="91" y="345" font-size="21" font-weight="700" fill="#183448">협력업체 시행 · 관리감독자 재확인</text>
+      <text x="91" y="373" font-size="16" fill="#435c6d">변경 대책을 시행하고 실제 동선과 작업조 전달 여부 확인</text>
+    </g>
+    <g>
+      <rect x="34" y="413" width="544" height="86" rx="10" fill="#eaf0f8"/>
+      <circle cx="64" cy="443" r="16" fill="#fff"/>
+      <text x="64" y="448" text-anchor="middle" font-size="13" font-weight="700" fill="#075f5a">04</text>
+      <text x="91" y="449" font-size="21" font-weight="700" fill="#183448">지정 판단권자 결정 · 관리감독자 전달</text>
+      <text x="91" y="477" font-size="16" fill="#435c6d">충족 시 재개 범위·시각·조건 결정, 각 작업조에 전달</text>
+    </g>
+    <g>
+      <rect x="34" y="517" width="544" height="86" rx="10" fill="#e2f2ee"/>
+      <circle cx="64" cy="547" r="16" fill="#fff"/>
+      <text x="64" y="552" text-anchor="middle" font-size="13" font-weight="700" fill="#075f5a">05</text>
+      <text x="91" y="553" font-size="21" font-weight="700" fill="#183448">현장 보고 담당 · 관계자 후속 확인</text>
+      <text x="91" y="581" font-size="16" fill="#435c6d">반복 지적과 미결 사항을 주간보고·해당 회의에 연결</text>
+    </g>
+    <g>
+      <rect x="650" y="205" width="337" height="86" rx="10" fill="#f1f6f8" stroke="#dbe5e9"/>
+      <text x="667" y="231" font-size="18" font-weight="700" fill="#183448">보건 검토와 근로자 의견</text>
+      <text x="667" y="253" font-size="15" fill="#435c6d">분진 제보 시 보건관리자가 검토</text>
+      <text x="667" y="275" font-size="15" fill="#435c6d">대표가 요청하면 위험성평가 참여</text>
+    </g>
+    <g>
+      <rect x="650" y="309" width="337" height="86" rx="10" fill="#fbede8" stroke="#ead4ca"/>
+      <text x="667" y="335" font-size="18" font-weight="700" fill="#953d35">조치·전달이 아직 끝나지 않은 경우</text>
+      <text x="667" y="357" font-size="15" fill="#435c6d">관리감독자가 통제를 유지</text>
+      <text x="667" y="379" font-size="15" fill="#435c6d">담당·기한을 정하고 보완 뒤 재확인</text>
+    </g>
+    <text x="35" y="629" font-size="16" fill="#435c6d">업체 간 자원·공정 결정은 현장소장에게, 실제 재개 결정은 현장 절차상 권한을 확인합니다.</text>
+  </g>
+</svg>
