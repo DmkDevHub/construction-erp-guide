@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img">
+<title>전자결재의 정상·반려 경로</title><desc>작성과 검토 다음 승인인 경우에만 외부 제출 절차로 이어지고 반려 시 사유를 남겨 보완 후 재상신합니다.</desc>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#527585"/></marker></defs>
+<g font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif" fill="#153449">
+<rect width="1000" height="360" rx="17" fill="#fff" stroke="#dce6e9"/>
+<text x="28" y="42" font-size="28" font-weight="750">전자결재의 정상·반려 경로</text>
+<rect x="28" y="70" width="209" height="95" rx="11" fill="#e6f2ef"/>
+<rect x="273" y="70" width="209" height="95" rx="11" fill="#eaf0fa"/>
+<rect x="518" y="70" width="209" height="95" rx="11" fill="#e6f2ef"/>
+<rect x="763" y="70" width="209" height="95" rx="11" fill="#edf2f5"/>
+<rect x="273" y="195" width="209" height="85" rx="11" fill="#faece8"/>
+<g font-size="22" font-weight="750" fill="#0b6b63">
+<text x="45" y="106">작성·상신</text><text x="290" y="106">검토</text><text x="535" y="106">승인</text><text x="780" y="106">해당 대외 절차</text>
+<text x="290" y="231" fill="#96382d">반려</text>
+</g>
+<g font-size="16" fill="#435e70">
+<text x="45" y="137">첨부·문서 버전</text><text x="290" y="137">조건과 누락 확인</text><text x="535" y="137">승인본 및 조건 확정</text>
+<text x="780" y="137">제출과 기관 수신</text><text x="290" y="259">보완 사유와 요청 기록</text><text x="72" y="225">보완 후 재상신</text>
+</g>
+<g stroke="#527585" stroke-width="2.5" fill="none" marker-end="url(#a)">
+<path d="M239 118H270"/><path d="M484 118H515"/><path d="M729 118H760"/><path d="M376 168V191"/><path d="M271 239H130V168"/>
+</g>
+<rect x="28" y="302" width="944" height="39" rx="7" fill="#e6f2ef"/>
+<text x="47" y="328" font-size="17" fill="#435e70">승인·반려의 결과, 제출·수신 여부, 현장 조치 확인을 각각 기록한다</text>
+</g></svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="425" viewBox="0 0 1000 425" role="img">
+<title>월간 대시보드와 미종결 건 조회</title><desc>가상 11월 신규 지적 8건 중 재확인 완료 6건과 미종결 2건 및 상세 조회 예시</desc>
+<g font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif" fill="#153449">
+<rect width="1000" height="425" rx="17" fill="#fff" stroke="#dce6e9"/>
+<text x="28" y="43" font-size="28" font-weight="750">월간 대시보드와 미종결 건 조회</text>
+<rect x="28" y="65" width="944" height="45" rx="10" fill="#eaf0fa"/>
+<text x="44" y="94" font-size="18">학습용 화면 예시 · 별내 생활문화센터 · 11월 신규 지적 · 기준일 11월 30일</text>
+<rect x="28" y="125" width="520" height="203" rx="12" fill="#f1f6f8"/>
+<text x="46" y="159" font-size="21" font-weight="700">신규 지적 8건</text>
+<rect x="46" y="177" width="354" height="25" rx="4" fill="#0b6b63"/>
+<rect x="400" y="177" width="118" height="25" rx="4" fill="#a45a1b"/>
+<text x="46" y="236" font-size="18" fill="#0b6b63">재확인 완료 6건</text>
+<text x="320" y="236" font-size="18" fill="#9c511b">미종결 2건</text>
+<text x="46" y="282" font-size="16">이전 달 이월 건은 이 가상 지표의 분모에서 제외</text>
+<rect x="566" y="125" width="406" height="203" rx="12" fill="#e6f2ef"/>
+<text x="585" y="160" font-size="21" font-weight="700">미종결 원기록 보기</text>
+<text x="585" y="207" font-size="17">CK-B-022 · CA-B-009 · 재확인 대기</text>
+<text x="585" y="242" font-size="17">다른 지적 1건 · 개선 조치 중</text>
+<text x="585" y="283" font-size="16">작업 담당 · 기한 · 증빙으로 이동</text>
+<rect x="28" y="355" width="944" height="45" rx="8" fill="#e6f2ef"/>
+<text x="47" y="384" font-size="17">수치의 분자·분모와 기준일을 먼저 확인한 뒤 해당 지적과 조치 상태를 조회</text>
+</g></svg>

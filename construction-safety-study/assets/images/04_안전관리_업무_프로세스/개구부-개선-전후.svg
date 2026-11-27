@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img">
+<title>개구부 조치 전후 비교</title><desc>왼쪽은 고정 상태가 불명확한 덮개와 접근 통제, 오른쪽은 기준에 따라 고정과 표시를 확인한 개념도</desc>
+<g font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif" fill="#17374b">
+<rect x="0" y="0" width="1000" height="340" rx="17" fill="#fff" stroke="#dce6e9"/>
+<text x="29" y="43" font-size="28" font-weight="750">개구부 조치는 전후 상태를 확인한다</text>
+<rect x="28" y="67" width="465" height="210" rx="12" fill="#faece8"/>
+<rect x="507" y="67" width="465" height="210" rx="12" fill="#e5f2ef"/>
+<text x="50" y="103" fill="#96382d" font-size="21" font-weight="750">조치 전 · 고정 상태 불명확</text>
+<text x="529" y="103" fill="#0b6b63" font-size="21" font-weight="750">조치 후 · 고정과 표시를 확인</text>
+<path d="M55 202H174M348 202H460M531 202H652M825 202H939" stroke="#17374b" fill="none" stroke-width="7"/>
+<path d="M169 196l153-28 6 15-150 24z" stroke="#96382d" fill="#f3bba8" stroke-width="3"/>
+<path d="M321 207h28m-14 0v22" stroke="#96382d" fill="none" stroke-width="3"/>
+<rect x="642" y="187" width="198" height="15" rx="2" fill="#0b6b63"/>
+<path d="M652 183v14m178-14v14" stroke="#17374b" stroke-width="4"/>
+<text x="672" y="169" fill="#0b6b63" font-size="17" font-weight="750">개구부 덮개 표시</text>
+<text x="50" y="253" font-size="16">위험 구역 접근 통제 · 담당 지정</text>
+<text x="529" y="253" font-size="16">지정 확인자가 상태 확인과 결과를 기록</text>
+<text x="32" y="310" font-size="17">방호 구조·고정·표시의 구체 요건은 적용 규정과 현장 계획을 확인</text>
+</g></svg>
