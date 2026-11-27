@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="171" viewBox="0 0 900 171" role="img" aria-labelledby="title description">
+  <title id="title">보건관리자 · 유해요인 검토에서 개선 확인까지</title>
+  <desc id="description">유해요인 파악 → 개선 대책 검토 → 실시 지원·전달 → 개선 효과 확인. 관리감독자·업체에 개선 조건을 전달하고 보고에는 공종·유해인자·조치 상태를 기록.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0L8 4L0 8Z" fill="#486474"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="898" height="169" rx="14" fill="#fff" stroke="#dbe5e9"/>
+  <g font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif">
+    <text x="24" y="38" font-size="24" font-weight="700" fill="#183448">보건관리자 · 유해요인 검토에서 개선 확인까지</text>
+    <g>
+      <g>
+        <rect x="24" y="58" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="36" y="86" font-size="17" font-weight="700" fill="#183448">유해요인 파악</text>
+        <text x="36" y="108" font-size="14" fill="#435c6d">공정·물질·근로자 의견</text>
+      </g>
+      <g>
+        <rect x="242" y="58" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="254" y="86" font-size="17" font-weight="700" fill="#183448">개선 대책 검토</text>
+        <text x="254" y="108" font-size="14" fill="#435c6d">발생원·작업 위치·시간</text>
+      </g>
+      <g>
+        <rect x="460" y="58" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="472" y="86" font-size="17" font-weight="700" fill="#183448">실시 지원·전달</text>
+        <text x="472" y="108" font-size="14" fill="#435c6d">필요 시 측정·검진 계획</text>
+      </g>
+      <g>
+        <rect x="678" y="58" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="690" y="86" font-size="17" font-weight="700" fill="#183448">개선 효과 확인</text>
+        <text x="690" y="108" font-size="14" fill="#435c6d">현장·필요 시 측정 결과</text>
+      </g>
+      <g fill="none" stroke="#486474" stroke-width="2" marker-end="url(#arrow)">
+        <path d="M222 91h16"/>
+        <path d="M440 91h16"/>
+        <path d="M658 91h16"/>
+      </g>
+      <text x="24" y="151" font-size="15" fill="#435c6d">관리감독자·업체에 개선 조건을 전달하고 보고에는 공종·유해인자·조치 상태를 기록</text>
+    </g>
+  </g>
+</svg>

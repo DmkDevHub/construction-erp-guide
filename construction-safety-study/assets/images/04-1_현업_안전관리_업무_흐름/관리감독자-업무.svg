@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="171" viewBox="0 0 900 171" role="img" aria-labelledby="title description">
+  <title id="title">관리감독자 · 착수 확인에서 변경 통제와 인계까지</title>
+  <desc id="description">착수 조건 확인 → TBM과 이해 확인 → 변경 대응 → 현장 재확인·인계. 지정 판단권자에게 재확인 결과, 다음 작업조에 남은 통제 조건을 전달.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0L8 4L0 8Z" fill="#486474"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="898" height="169" rx="14" fill="#fff" stroke="#dbe5e9"/>
+  <g font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif">
+    <text x="24" y="38" font-size="24" font-weight="700" fill="#183448">관리감독자 · 착수 확인에서 변경 통제와 인계까지</text>
+    <g>
+      <g>
+        <rect x="24" y="58" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="36" y="86" font-size="17" font-weight="700" fill="#183448">착수 조건 확인</text>
+        <text x="36" y="108" font-size="14" fill="#435c6d">인원·장비·보호구·통제</text>
+      </g>
+      <g>
+        <rect x="242" y="58" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="254" y="86" font-size="17" font-weight="700" fill="#183448">TBM과 이해 확인</text>
+        <text x="254" y="108" font-size="14" fill="#435c6d">작업조의 경로·연락 방법</text>
+      </g>
+      <g>
+        <rect x="460" y="58" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="472" y="86" font-size="17" font-weight="700" fill="#183448">변경 대응</text>
+        <text x="472" y="108" font-size="14" fill="#435c6d">해당 작업 통제·관계자 통보</text>
+      </g>
+      <g>
+        <rect x="678" y="58" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="690" y="86" font-size="17" font-weight="700" fill="#183448">현장 재확인·인계</text>
+        <text x="690" y="108" font-size="14" fill="#435c6d">대책·작업조 전달 확인</text>
+      </g>
+      <g fill="none" stroke="#486474" stroke-width="2" marker-end="url(#arrow)">
+        <path d="M222 91h16"/>
+        <path d="M440 91h16"/>
+        <path d="M658 91h16"/>
+      </g>
+      <text x="24" y="151" font-size="15" fill="#435c6d">지정 판단권자에게 재확인 결과, 다음 작업조에 남은 통제 조건을 전달</text>
+    </g>
+  </g>
+</svg>

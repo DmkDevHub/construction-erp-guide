@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="510" viewBox="0 0 900 510" role="img" aria-labelledby="title description">
+  <title id="title">현장소장과 안전보건 책임자의 업무 순서</title>
+  <desc id="description">현장소장. 계획·위험 받기 → 자원·공정 결정 → 결정 사항 전달 → 이행 검토. 남기는 기록 · 공정·자원 결정, 지시 대상, 이행 기한. 안전보건관리책임자. 예방계획 수립 → 현장 결과 확인 → 조치·지원 결정 → 이행 검토. 남기는 기록 · 재해예방계획, 조치 지시, 이행·미결 검토. 안전보건총괄책임자. 혼재 구간 파악 → 공통 조건 조정 → 예방조치 확인 → 공동 이행 점검. 남기는 기록 · 업체 간 조정, 협의 사항, 이행·통보 이력.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0L8 4L0 8Z" fill="#486474"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="898" height="508" rx="14" fill="#fff" stroke="#dbe5e9"/>
+  <g font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif">
+    <text x="24" y="38" font-size="24" font-weight="700" fill="#183448">현장소장과 안전보건 책임자의 업무 순서</text>
+    <g>
+      <text x="24" y="79" font-size="19" fill="#075f5a" font-weight="700">현장소장</text>
+      <g>
+        <rect x="24" y="93" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="36" y="121" font-size="17" font-weight="700" fill="#183448">계획·위험 받기</text>
+        <text x="36" y="143" font-size="14" fill="#435c6d">공정과 필요한 지원 확인</text>
+      </g>
+      <g>
+        <rect x="242" y="93" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="254" y="121" font-size="17" font-weight="700" fill="#183448">자원·공정 결정</text>
+        <text x="254" y="143" font-size="14" fill="#435c6d">인력·장비·일정 조정</text>
+      </g>
+      <g>
+        <rect x="460" y="93" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="472" y="121" font-size="17" font-weight="700" fill="#183448">결정 사항 전달</text>
+        <text x="472" y="143" font-size="14" fill="#435c6d">공사 담당·관리감독자</text>
+      </g>
+      <g>
+        <rect x="678" y="93" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="690" y="121" font-size="17" font-weight="700" fill="#183448">이행 검토</text>
+        <text x="690" y="143" font-size="14" fill="#435c6d">미결에 지원 담당 배정</text>
+      </g>
+      <g fill="none" stroke="#486474" stroke-width="2" marker-end="url(#arrow)">
+        <path d="M222 126h16"/>
+        <path d="M440 126h16"/>
+        <path d="M658 126h16"/>
+      </g>
+      <text x="24" y="186" font-size="15" fill="#435c6d">남기는 기록 · 공정·자원 결정, 지시 대상, 이행 기한</text>
+    </g>
+    <g>
+      <path d="M24 195H878" stroke="#dbe5e9"/>
+      <text x="24" y="224" font-size="19" fill="#075f5a" font-weight="700">안전보건관리책임자</text>
+      <g>
+        <rect x="24" y="238" width="196" height="67" rx="9" fill="#eaf0f8"/>
+        <text x="36" y="266" font-size="17" font-weight="700" fill="#183448">예방계획 수립</text>
+        <text x="36" y="288" font-size="14" fill="#435c6d">평가·교육·보건 담당 지정</text>
+      </g>
+      <g>
+        <rect x="242" y="238" width="196" height="67" rx="9" fill="#eaf0f8"/>
+        <text x="254" y="266" font-size="17" font-weight="700" fill="#183448">현장 결과 확인</text>
+        <text x="254" y="288" font-size="14" fill="#435c6d">안전·보건 의견과 조치 확인</text>
+      </g>
+      <g>
+        <rect x="460" y="238" width="196" height="67" rx="9" fill="#eaf0f8"/>
+        <text x="472" y="266" font-size="17" font-weight="700" fill="#183448">조치·지원 결정</text>
+        <text x="472" y="288" font-size="14" fill="#435c6d">담당과 이행 조건 정리</text>
+      </g>
+      <g>
+        <rect x="678" y="238" width="196" height="67" rx="9" fill="#eaf0f8"/>
+        <text x="690" y="266" font-size="17" font-weight="700" fill="#183448">이행 검토</text>
+        <text x="690" y="288" font-size="14" fill="#435c6d">반복 위험을 계획에 반영</text>
+      </g>
+      <g fill="none" stroke="#486474" stroke-width="2" marker-end="url(#arrow)">
+        <path d="M222 271h16"/>
+        <path d="M440 271h16"/>
+        <path d="M658 271h16"/>
+      </g>
+      <text x="24" y="331" font-size="15" fill="#435c6d">남기는 기록 · 재해예방계획, 조치 지시, 이행·미결 검토</text>
+    </g>
+    <g>
+      <path d="M24 340H878" stroke="#dbe5e9"/>
+      <text x="24" y="369" font-size="19" fill="#075f5a" font-weight="700">안전보건총괄책임자</text>
+      <g>
+        <rect x="24" y="383" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="36" y="411" font-size="17" font-weight="700" fill="#183448">혼재 구간 파악</text>
+        <text x="36" y="433" font-size="14" fill="#435c6d">관계수급인 작업·연락망</text>
+      </g>
+      <g>
+        <rect x="242" y="383" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="254" y="411" font-size="17" font-weight="700" fill="#183448">공통 조건 조정</text>
+        <text x="254" y="433" font-size="14" fill="#435c6d">업체별 통제와 적용 범위</text>
+      </g>
+      <g>
+        <rect x="460" y="383" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="472" y="411" font-size="17" font-weight="700" fill="#183448">예방조치 확인</text>
+        <text x="472" y="433" font-size="14" fill="#435c6d">위험성평가에 반영 확인</text>
+      </g>
+      <g>
+        <rect x="678" y="383" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="690" y="411" font-size="17" font-weight="700" fill="#183448">공동 이행 점검</text>
+        <text x="690" y="433" font-size="14" fill="#435c6d">업체별 조치와 미결 확인</text>
+      </g>
+      <g fill="none" stroke="#486474" stroke-width="2" marker-end="url(#arrow)">
+        <path d="M222 416h16"/>
+        <path d="M440 416h16"/>
+        <path d="M658 416h16"/>
+      </g>
+      <text x="24" y="476" font-size="15" fill="#435c6d">남기는 기록 · 업체 간 조정, 협의 사항, 이행·통보 이력</text>
+    </g>
+  </g>
+</svg>

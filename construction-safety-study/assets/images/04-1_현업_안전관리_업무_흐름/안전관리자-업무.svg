@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="171" viewBox="0 0 900 171" role="img" aria-labelledby="title description">
+  <title id="title">안전관리자 · 위험을 찾아 대책 이행을 확인하는 과정</title>
+  <desc id="description">작업 정보 받기 → 위험과 대책 검토 → 현장 점검·조언 → 대책 이행 확인. 관리감독자·조치 담당에게 기술 의견, 지적 위치와 개선 근거를 전달.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0L8 4L0 8Z" fill="#486474"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="898" height="169" rx="14" fill="#fff" stroke="#dbe5e9"/>
+  <g font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif">
+    <text x="24" y="38" font-size="24" font-weight="700" fill="#183448">안전관리자 · 위험을 찾아 대책 이행을 확인하는 과정</text>
+    <g>
+      <g>
+        <rect x="24" y="58" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="36" y="86" font-size="17" font-weight="700" fill="#183448">작업 정보 받기</text>
+        <text x="36" y="108" font-size="14" fill="#435c6d">공정·장비·실제 작업 확인</text>
+      </g>
+      <g>
+        <rect x="242" y="58" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="254" y="86" font-size="17" font-weight="700" fill="#183448">위험과 대책 검토</text>
+        <text x="254" y="108" font-size="14" fill="#435c6d">교차·사각지대 위험 파악</text>
+      </g>
+      <g>
+        <rect x="460" y="58" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="472" y="86" font-size="17" font-weight="700" fill="#183448">현장 점검·조언</text>
+        <text x="472" y="108" font-size="14" fill="#435c6d">담당자에게 미흡 사항 전달</text>
+      </g>
+      <g>
+        <rect x="678" y="58" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="690" y="86" font-size="17" font-weight="700" fill="#183448">대책 이행 확인</text>
+        <text x="690" y="108" font-size="14" fill="#435c6d">반복 위험은 평가에 반영</text>
+      </g>
+      <g fill="none" stroke="#486474" stroke-width="2" marker-end="url(#arrow)">
+        <path d="M222 91h16"/>
+        <path d="M440 91h16"/>
+        <path d="M658 91h16"/>
+      </g>
+      <text x="24" y="151" font-size="15" fill="#435c6d">관리감독자·조치 담당에게 기술 의견, 지적 위치와 개선 근거를 전달</text>
+    </g>
+  </g>
+</svg>

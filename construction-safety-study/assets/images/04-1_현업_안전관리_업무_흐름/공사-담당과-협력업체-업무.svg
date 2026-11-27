@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="365" viewBox="0 0 900 365" role="img" aria-labelledby="title description">
+  <title id="title">공사 담당과 협력업체 작업책임자의 업무 순서</title>
+  <desc id="description">원청 공사 담당. 다음 날 계획 받기 → 겹치는 구간 표시 → 공용 시간·경로 조정 → 변경안 전달. 남기는 기록 · 조정표, 변경 도면, 영향 작업과 업체 통보. 협력업체 작업책임자·소장. 실제 투입 파악 → 작업 조건 확인 → 조치 준비·변경 통보 → 실행 결과 제출. 남기는 기록 · 실제 투입과 변경 신고, 조치 실행 증빙.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0L8 4L0 8Z" fill="#486474"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="898" height="363" rx="14" fill="#fff" stroke="#dbe5e9"/>
+  <g font-family="Malgun Gothic, Noto Sans CJK KR, sans-serif">
+    <text x="24" y="38" font-size="24" font-weight="700" fill="#183448">공사 담당과 협력업체 작업책임자의 업무 순서</text>
+    <g>
+      <text x="24" y="79" font-size="19" fill="#075f5a" font-weight="700">원청 공사 담당</text>
+      <g>
+        <rect x="24" y="93" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="36" y="121" font-size="17" font-weight="700" fill="#183448">다음 날 계획 받기</text>
+        <text x="36" y="143" font-size="14" fill="#435c6d">업체별 시간·인원·장비</text>
+      </g>
+      <g>
+        <rect x="242" y="93" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="254" y="121" font-size="17" font-weight="700" fill="#183448">겹치는 구간 표시</text>
+        <text x="254" y="143" font-size="14" fill="#435c6d">예정표와 도면 대조</text>
+      </g>
+      <g>
+        <rect x="460" y="93" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="472" y="121" font-size="17" font-weight="700" fill="#183448">공용 시간·경로 조정</text>
+        <text x="472" y="143" font-size="14" fill="#435c6d">양쪽 업체와 조건 합의</text>
+      </g>
+      <g>
+        <rect x="678" y="93" width="196" height="67" rx="9" fill="#e2f2ee"/>
+        <text x="690" y="121" font-size="17" font-weight="700" fill="#183448">변경안 전달</text>
+        <text x="690" y="143" font-size="14" fill="#435c6d">관리감독자·안전보건 검토자</text>
+      </g>
+      <g fill="none" stroke="#486474" stroke-width="2" marker-end="url(#arrow)">
+        <path d="M222 126h16"/>
+        <path d="M440 126h16"/>
+        <path d="M658 126h16"/>
+      </g>
+      <text x="24" y="186" font-size="15" fill="#435c6d">남기는 기록 · 조정표, 변경 도면, 영향 작업과 업체 통보</text>
+    </g>
+    <g>
+      <path d="M24 195H878" stroke="#dbe5e9"/>
+      <text x="24" y="224" font-size="19" fill="#075f5a" font-weight="700">협력업체 작업책임자·소장</text>
+      <g>
+        <rect x="24" y="238" width="196" height="67" rx="9" fill="#eaf0f8"/>
+        <text x="36" y="266" font-size="17" font-weight="700" fill="#183448">실제 투입 파악</text>
+        <text x="36" y="288" font-size="14" fill="#435c6d">공사 담당과 인원·장비 공유</text>
+      </g>
+      <g>
+        <rect x="242" y="238" width="196" height="67" rx="9" fill="#eaf0f8"/>
+        <text x="254" y="266" font-size="17" font-weight="700" fill="#183448">작업 조건 확인</text>
+        <text x="254" y="288" font-size="14" fill="#435c6d">소속 관리감독자와 확인</text>
+      </g>
+      <g>
+        <rect x="460" y="238" width="196" height="67" rx="9" fill="#eaf0f8"/>
+        <text x="472" y="266" font-size="17" font-weight="700" fill="#183448">조치 준비·변경 통보</text>
+        <text x="472" y="288" font-size="14" fill="#435c6d">방호·안내·통제와 당일 변경</text>
+      </g>
+      <g>
+        <rect x="678" y="238" width="196" height="67" rx="9" fill="#eaf0f8"/>
+        <text x="690" y="266" font-size="17" font-weight="700" fill="#183448">실행 결과 제출</text>
+        <text x="690" y="288" font-size="14" fill="#435c6d">조치 증빙·남은 사항</text>
+      </g>
+      <g fill="none" stroke="#486474" stroke-width="2" marker-end="url(#arrow)">
+        <path d="M222 271h16"/>
+        <path d="M440 271h16"/>
+        <path d="M658 271h16"/>
+      </g>
+      <text x="24" y="331" font-size="15" fill="#435c6d">남기는 기록 · 실제 투입과 변경 신고, 조치 실행 증빙</text>
+    </g>
+  </g>
+</svg>
