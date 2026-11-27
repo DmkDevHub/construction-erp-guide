@@ -166,6 +166,8 @@ construction-safety-study/
 
 ### 법령 및 공식 자료 확인
 
+집필과 검토에는 국내에서 발행한 법령·고시·가이드와 국내 현업 문서를 참고합니다.
+
 1. 본문 작성일과 최종 검토일을 기준으로 국가법령정보센터의 법령·행정규칙 원문을 확인합니다. 법령명, 조·항·호, 관련 별표·서식, 해당 조항 시행일과 확인일, 원문 링크를 기록합니다. 시행 예정 개정, 부칙의 경과조치, 공사 단계·규모 등에 따른 예외를 확인합니다. [국가법령정보센터 산업안전보건법령집](https://www.law.go.kr/lbook/lbInfoR.do?FSort=100&lbookSeq=113399)
 2. 법령별 목적, 의무와 책임 주체, 적용 조건, 수행 시점·예외, 위반 시 책임·제재와 현장 증빙을 사례에 대조합니다. 기준이 달라지는 공사금액·인원·공종·작업·시점은 판단 그림에 표시합니다. 산업안전보건관리비 및 위험성평가 관련 고시는 법령집에서 원문·개정 이력으로 들어가 확인합니다. [국가법령정보센터 산업안전보건관리비 고시 개정문](https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000254546&chrClsCd=010202&urlMode=admRulRvsInfoR)
 3. 고용노동부와 안전보건공단 해설은 현장 실행 사례에, 건설공사 안전관리 종합정보망(CSI)은 안전관리계획·점검·대외 제출 사례에 사용합니다. 가이드·현장 관행·회사 기준의 근거 성격을 본문에 표시합니다. [고용노동부 건설현장 TBM 실천 가이드](https://moel.go.kr/local/busanbukbu/news/notice/noticeView.do?bbs_seq=20230302066) · [안전보건공단 건설업 위험성평가 실시규정 자료](https://oshri.kosha.or.kr/kosha/data/constructionsafety.do?articleNo=440483&attachNo=250424&mode=download) · [건설공사 안전관리 종합정보망](https://www.csi.go.kr/por/about001.do)

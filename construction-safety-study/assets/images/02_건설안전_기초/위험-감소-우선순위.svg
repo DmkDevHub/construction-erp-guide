@@ -1,5 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="431" viewBox="0 0 960 431" role="img">
-<title>콘크리트 절단에서 대책을 고르는 순서</title><desc>제거, 대체, 공학적 대책, 관리적 대책, 보호구를 사례로 표시</desc>
-<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#3f586a"/></marker><marker id="redArrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#96382d"/></marker><marker id="tealArrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#086d64"/></marker></defs>
-<g font-family="Malgun Gothic, Noto Sans CJK KR, Apple SD Gothic Neo, sans-serif"><rect x="0" y="0" width="960" height="431" rx="18" fill="#fff" stroke="#dbe4e9"/><text x="30" y="42" font-size="27" fill="#152f43" text-anchor="start" font-weight="750">콘크리트 절단에서 대책을 고르는 순서</text>
-<rect x="35" y="69" width="890" height="53" rx="12" fill="#e5f2ee" stroke="none"/><circle cx="62" cy="95" r="15" fill="#086d64"/><text x="62" y="100" font-size="14" fill="#fff" text-anchor="middle" font-weight="700">1</text><text x="87" y="102" font-size="19" fill="#152f43" text-anchor="start" font-weight="750">제거</text><text x="278" y="101" font-size="17" fill="#3f586a" text-anchor="start" font-weight="500">설계 검토로 현장 추가 절단 작업을 없앨 수 있는지 확인</text><rect x="35" y="133" width="890" height="53" rx="12" fill="#e5f2ee" stroke="none"/><circle cx="62" cy="159" r="15" fill="#086d64"/><text x="62" y="164" font-size="14" fill="#fff" text-anchor="middle" font-weight="700">2</text><text x="87" y="166" font-size="19" fill="#152f43" text-anchor="start" font-weight="750">대체</text><text x="278" y="165" font-size="17" fill="#3f586a" text-anchor="start" font-weight="500">변경 승인 범위에서 분진을 덜 내는 공법을 검토</text><rect x="35" y="197" width="890" height="53" rx="12" fill="#e5f2ee" stroke="none"/><circle cx="62" cy="223" r="15" fill="#086d64"/><text x="62" y="228" font-size="14" fill="#fff" text-anchor="middle" font-weight="700">3</text><text x="87" y="230" font-size="19" fill="#152f43" text-anchor="start" font-weight="750">공학적 대책</text><text x="278" y="229" font-size="17" fill="#3f586a" text-anchor="start" font-weight="500">분진 발생원에 적합한 국소배기·집진 또는 습식 방식</text><rect x="35" y="261" width="890" height="53" rx="12" fill="#f1f6f8" stroke="none"/><circle cx="62" cy="287" r="15" fill="#385d8d"/><text x="62" y="292" font-size="14" fill="#fff" text-anchor="middle" font-weight="700">4</text><text x="87" y="294" font-size="19" fill="#152f43" text-anchor="start" font-weight="750">관리적 대책</text><text x="278" y="293" font-size="17" fill="#3f586a" text-anchor="start" font-weight="500">관련 인원만 접근하도록 구역·시간을 조정하고 주지</text><rect x="35" y="325" width="890" height="53" rx="12" fill="#f1f6f8" stroke="none"/><circle cx="62" cy="351" r="15" fill="#385d8d"/><text x="62" y="356" font-size="14" fill="#fff" text-anchor="middle" font-weight="700">5</text><text x="87" y="358" font-size="19" fill="#152f43" text-anchor="start" font-weight="750">개인보호구</text><text x="278" y="357" font-size="17" fill="#3f586a" text-anchor="start" font-weight="500">남는 노출에 적합한 호흡보호구를 선정하고 밀착 확인</text><text x="35" y="409" font-size="16" fill="#3f586a" text-anchor="start" font-weight="500">현장 기준에 맞춰 실제 효과를 확인하고 남은 위험을 평가합니다.</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="367" viewBox="0 0 960 367" role="img" aria-labelledby="title description">
+  <title id="title">콘크리트 절단에서 개선대책을 검토하는 순서</title>
+  <desc id="description">고용노동부 고시 제12조의 위험 제거와 저감, 공학적 대책, 관리적 대책, 개인용 보호구를 콘크리트 절단 예시로 보여 준다.</desc>
+  <rect x="1" y="1" width="958" height="365" rx="18" fill="#fff" stroke="#dbe4e9"/>
+  <g font-family="Malgun Gothic, Noto Sans CJK KR, Apple SD Gothic Neo, sans-serif">
+    <text x="35" y="43" font-size="27" fill="#152f43" font-weight="700">콘크리트 절단에서 개선대책을 검토하는 순서</text>
+    <g>
+      <rect x="35" y="69" width="890" height="53" rx="12" fill="#e5f2ee"/>
+      <circle cx="62" cy="95" r="15" fill="#086d64"/>
+      <text x="62" y="100" font-size="14" fill="#fff" text-anchor="middle" font-weight="700">1</text>
+      <text x="87" y="102" font-size="19" fill="#152f43" font-weight="700">위험 제거·저감</text>
+      <text x="278" y="101" font-size="17" fill="#3f586a">설계·공법을 바꿔 절단을 없애거나 분진을 줄일 수 있는지 검토</text>
+    </g>
+    <g>
+      <rect x="35" y="133" width="890" height="53" rx="12" fill="#e5f2ee"/>
+      <circle cx="62" cy="159" r="15" fill="#086d64"/>
+      <text x="62" y="164" font-size="14" fill="#fff" text-anchor="middle" font-weight="700">2</text>
+      <text x="87" y="166" font-size="19" fill="#152f43" font-weight="700">공학적 대책</text>
+      <text x="278" y="165" font-size="17" fill="#3f586a">발생원에 적합한 집진 또는 습식 방식으로 분진 확산을 줄임</text>
+    </g>
+    <g>
+      <rect x="35" y="197" width="890" height="53" rx="12" fill="#f1f6f8"/>
+      <circle cx="62" cy="223" r="15" fill="#385d8d"/>
+      <text x="62" y="228" font-size="14" fill="#fff" text-anchor="middle" font-weight="700">3</text>
+      <text x="87" y="230" font-size="19" fill="#152f43" font-weight="700">관리적 대책</text>
+      <text x="278" y="229" font-size="17" fill="#3f586a">접근을 제한하고 작업 구역·시간을 조정해 관계 작업조에 알림</text>
+    </g>
+    <g>
+      <rect x="35" y="261" width="890" height="53" rx="12" fill="#f1f6f8"/>
+      <circle cx="62" cy="287" r="15" fill="#385d8d"/>
+      <text x="62" y="292" font-size="14" fill="#fff" text-anchor="middle" font-weight="700">4</text>
+      <text x="87" y="294" font-size="19" fill="#152f43" font-weight="700">개인용 보호구</text>
+      <text x="278" y="293" font-size="17" fill="#3f586a">노출에 적합한 호흡보호구를 선정하고 착용 상태를 확인</text>
+    </g>
+    <text x="35" y="346" font-size="16" fill="#3f586a">고용노동부 고시 제12조에 따라 조치 후 위험성이 허용 가능한 수준인지 확인합니다.</text>
+  </g>
+</svg>
